@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Log.d("maiya","test1");
         Log.d("maiya","test2");
+        Log.d("maiya","新开的节点");
     }
 }
