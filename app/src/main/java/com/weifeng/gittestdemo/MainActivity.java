@@ -17,6 +17,7 @@ public class MainActivity extends AppCompatActivity {
         Log.d("maiya","新开的节点2");
         Log.d("maiya","新开的节点3-----");
         Log.d("maiya","新开的节点3====");
+        Log.d("maiya","新开的节点3~~~~~~");
 
     }
 }
